@@ -50,3 +50,4 @@ This project is a web-based application that allows users to securely encrypt te
 # **OUTPUT**
 ![Image](https://github.com/user-attachments/assets/11d3d978-86e7-4659-a803-3b104b616b6d)
 ![Image](https://github.com/user-attachments/assets/33a5c46e-975f-41a6-b87e-d7ce288b49cd)
+![Image](https://github.com/user-attachments/assets/019e65f6-028d-4480-a798-efb0fe884923)
