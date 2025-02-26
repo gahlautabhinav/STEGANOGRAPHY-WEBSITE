@@ -46,3 +46,6 @@ This project is a web-based application that allows users to securely encrypt te
   1. Upload the encrypted image.
   2. Enter the password used during encryption.
   3. Click "Decrypt" to retrieve and display the decrypted message if the password is correct.
+
+# **OUTPUT**
+![Image](https://github.com/user-attachments/assets/11d3d978-86e7-4659-a803-3b104b616b6d)
